@@ -1,3 +1,6 @@
+#ignnore files
+data-12-1-2-resources
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
