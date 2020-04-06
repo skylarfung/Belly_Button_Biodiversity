@@ -84,6 +84,7 @@ function buildCharts(sample) {
     var bubbleData = [trace1];
 
     var bubbleLayout = {
+      title: "Bacterial Species",
       xaxis: {
         title: "OTU ID"
       }
